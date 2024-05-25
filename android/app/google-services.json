@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260037877697",
+    "project_id": "rshproject-8ee77",
+    "storage_bucket": "rshproject-8ee77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260037877697:android:1be7d151e5a2dc16469940",
+        "android_client_info": {
+          "package_name": "com.example.rsh_mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvop_YS86ueWoRhZHkdpDKECEByZ0rqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
